@@ -40,7 +40,7 @@ AXI-LITE READ & WRITE
 
 ![image](https://hackmd.io/_uploads/rykN3m2dp.png)
 
-AXI-STREAM
+AXI-STREAM  
 ![image](https://hackmd.io/_uploads/HkZDnQ3dp.png)
 ### 3.user_project_example.counter
 write an interface for valid&ready inside the counter of 10 
