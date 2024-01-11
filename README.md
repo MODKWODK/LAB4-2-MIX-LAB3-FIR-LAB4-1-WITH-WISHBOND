@@ -21,7 +21,8 @@ https://www.youtube.com/watch?v=3IaNn1kP8xA&list=PLTA_T2FLzYNAvdvpEQvTjXaPARtmV-
 並且分別定義2種io pin for different "fir"
 ![image](https://hackmd.io/_uploads/ByZdNfhda.png)
 
-### 2.user_project
+### 2.user_project  
+
 > wishbond 和 axi-lite 和 axi-stream溝通介面
 定義wb and axi 的ADDRESS
 ![image](https://hackmd.io/_uploads/ByNYsm3uT.png)
@@ -35,9 +36,8 @@ https://www.youtube.com/watch?v=3IaNn1kP8xA&list=PLTA_T2FLzYNAvdvpEQvTjXaPARtmV-
 
 
 
-AXI-LITE READ & WRITE
+AXI-LITE READ & WRITE  
 ![image](https://hackmd.io/_uploads/rkMX2mnu6.png)
-
 ![image](https://hackmd.io/_uploads/rykN3m2dp.png)
 
 AXI-STREAM  
@@ -46,7 +46,8 @@ AXI-STREAM
 write an interface for valid&ready inside the counter of 10 
 ![image](https://hackmd.io/_uploads/H1P6nXh_T.png)
 ### fir_dut
-including tap_bram & data_bram 
+including tap_bram & data_bram   
+
 ![image](https://hackmd.io/_uploads/ry5fkX3Oa.png)
 
 
