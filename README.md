@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=3IaNn1kP8xA&list=PLTA_T2FLzYNAvdvpEQvTjXaPARtmV-
 
 > wishbond 和 axi-lite 和 axi-stream溝通介面
 定義wb and axi 的ADDRESS
+
 ![image](https://hackmd.io/_uploads/ByNYsm3uT.png)
 
 #### WB-AIX 的訊號對街口定義
