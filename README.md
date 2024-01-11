@@ -43,7 +43,8 @@ AXI-LITE READ & WRITE
 AXI-STREAM  
 ![image](https://hackmd.io/_uploads/HkZDnQ3dp.png)
 ### 3.user_project_example.counter
-write an interface for valid&ready inside the counter of 10 
+write an interface for valid&ready inside the counter of 10  
+
 ![image](https://hackmd.io/_uploads/H1P6nXh_T.png)
 ### fir_dut
 including tap_bram & data_bram   
