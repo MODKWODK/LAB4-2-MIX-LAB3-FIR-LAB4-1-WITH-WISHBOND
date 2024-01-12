@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun Nov 12 12:14:56 2023
+# Process ID: 4235
+# Current directory: /home/ubuntu/lab4_2/lab4-2better/testbench/counter_la_fir
+# Command line: vivado
+# Log file: /home/ubuntu/lab4_2/lab4-2better/testbench/counter_la_fir/vivado.log
+# Journal file: /home/ubuntu/lab4_2/lab4-2better/testbench/counter_la_fir/vivado.jou
+# Running On: ubuntu2004, OS: Linux, CPU Frequency: 1896.436 MHz, CPU Physical cores: 2, Host memory: 10030 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/ubuntu/lab4_2_vivado/lab4_2_vivado.xpr
+update_compile_order -fileset sources_1
+open_run synth_1 -name synth_1
+report_timing_summary -delay_type min_max -report_unconstrained -check_timing_verbose -max_paths 10 -input_pins -routable_nets -name timing_1 -file /home/ubuntu/lab4_2_vivado/timing_report.txt
