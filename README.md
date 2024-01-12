@@ -95,8 +95,9 @@ Firmware 放在SPI Flash 運行
 
 
 ## LAB4 實驗步驟
-LAB4基礎知識 https://hackmd.io/RAv93zJOSK2O11xULdYZOw  
-LAB4-0 https://hackmd.io/40-mJkU4QXSnTSWVEp8S8Q  
-LAB4-1 https://hackmd.io/1pRaX0TuSsqfAGmkbzOuSg  
-LAB4-2 https://hackmd.io/QnsLppKsS2uIBSVCI-DUgg
+LAB4基礎知識 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
+LAB4-0 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
+LAB4-1 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/HybFQWkIT  
+LAB4-2 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/BJXPryyIp 
+
 
