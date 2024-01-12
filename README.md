@@ -95,9 +95,17 @@ Firmware 放在SPI Flash 運行
 
 
 ## LAB4 實驗步驟
-LAB4基礎知識 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
-LAB4-0 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
-LAB4-1 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/HybFQWkIT  
-LAB4-2 https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/BJXPryyIp 
+LAB4基礎知識   
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/BknfcXy86    
+https://github.com/MODKWODK/LAB4-BACKGROUND  
+LAB4-0  
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
+https://github.com/MODKWODK/LAB4-0-caravel-SOC-simulation-  
+LAB4-1  
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/HybFQWkIT  
+https://github.com/MODKWODK/LAB4-1-Firmware-User-project  
+LAB4-2  
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/BJXPryyIp  
+https://github.com/MODKWODK/LAB4-2-MIX-LAB3-FIR-LAB4-1-WITH-WISHBOND 
 
 
