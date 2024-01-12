@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=3IaNn1kP8xA&list=PLTA_T2FLzYNAvdvpEQvTjXaPARtmV-0GM&index=14
 ## LAB4-2 簡單實作
 #### 實作要點
-1. lab3 fir & lab4-1 exmem-fir intergrete user_project with "withbond" interface
+1. lab3 fir & lab4-1 exmem-fir intergrete user_project with "wishbond" interface
 2. 執行 RISC-V FIR (user_project裡面)
 這裡的FIR 和 lab4-1(CPU 執行) & lab3(testbench)執行步驟不同，lab4-2由firmware控制hardware執行
 
